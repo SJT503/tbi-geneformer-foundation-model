@@ -1,0 +1,12 @@
+cohort,stratum,n_cells,n_ad,n_ctrl,auroc_tbi_gf,auroc_tbi_gf_prob,auroc_tbi_gf_emb,auroc_frozen_gf,delta_auroc_vs_frozen
+Exam3A_Human_AD_GSE138852,All_Nuclei,769,332,437,0.8025,0.647,0.8025,0.7716,0.0309
+Exam3A_Human_AD_GSE138852,MajorGlia,689,292,397,0.8315,0.6547,0.8315,0.798,0.0335
+Exam3A_Human_AD_GSE138852,Microglia,449,172,277,0.8032,0.6565,0.8032,0.7675,0.0357
+Exam3A_Human_AD_GSE138852,Astrocyte,160,80,80,0.922,0.6152,0.922,0.8919,0.0302
+Exam3A_Human_AD_GSE138852,Oligodendrocyte,80,40,40,0.8375,0.5137,0.8375,0.7463,0.0912
+Exam3A_Human_AD_GSE138852,Neuron,80,40,40,0.5944,0.54,0.5788,0.53,0.0644
+Exam3B_Mouse_5xFAD_GSE140511,All_Glia,346,202,144,0.6897,0.6712,0.6897,0.7253,-0.0357
+Exam3B_Mouse_5xFAD_GSE140511,Microglia_All,186,122,64,0.6884,0.6884,0.6082,0.7111,-0.0227
+Exam3B_Mouse_5xFAD_GSE140511,Microglia_Hippocampus,58,50,8,0.54,0.54,0.4175,0.45,0.09
+Exam3B_Mouse_5xFAD_GSE140511,Microglia_Cortex,128,72,56,0.7641,0.7641,0.6902,0.8058,-0.0417
+Exam3B_Mouse_5xFAD_GSE140511,Astrocyte_All,160,80,80,0.717,0.6298,0.717,0.7119,0.0052
